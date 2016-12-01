@@ -2,7 +2,4 @@
 
 
 
-
-$(function(){
-	console.log("徐小浪");
-})
+console.log("徐小浪");
